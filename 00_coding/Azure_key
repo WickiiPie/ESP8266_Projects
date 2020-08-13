@@ -1,0 +1,14 @@
+"connectionString": "HostName=NETHIotHub.azure-devices.net;DeviceId=1;SharedAccessKey=hngtrmy7QcwOh+/vVOcdOPp9xf9No8vykZwwwt9qLaU="
+
+
+
+primary key
+Qt5J/qm5ND0NFF37uYTwNTyK1E1U+xokcWBOCUrLvv8=
+secondary key
+S6Pwt8ilW92qi2YPFWKpIyHPnXg5hS7vTGbGh4ENrxY=
+connection string-primary key
+HostName=NETHIotHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=Qt5J/qm5ND0NFF37uYTwNTyK1E1U+xokcWBOCUrLvv8=
+connection string-secondary key
+HostName=NETHIotHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=S6Pwt8ilW92qi2YPFWKpIyHPnXg5hS7vTGbGh4ENrxY=
+
+
