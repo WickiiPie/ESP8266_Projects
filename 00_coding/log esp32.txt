@@ -1,0 +1,107 @@
+
+Administrator@CSDO_WIFI_SERVER MINGW32 ~
+$ cd $IDF_PATH
+
+Administrator@CSDO_WIFI_SERVER MINGW32 ~/esp/esp-idf-v4.1
+$ ls
+add_path.sh       export.bat   Kconfig           sdkconfig.rename
+CMakeLists.txt    export.ps1   LICENSE           SUPPORT_POLICY.md
+components        export.sh    make              SUPPORT_POLICY_CN.md
+CONTRIBUTING.rst  install.bat  README.md         tools
+docs              install.ps1  README_CN.md
+examples          install.sh   requirements.txt
+
+Administrator@CSDO_WIFI_SERVER MINGW32 ~/esp/esp-idf-v4.1
+$ ./install.bat
+This .bat file is for Windows CMD.EXE shell only. When using MSYS, run:
+  ./install.sh.
+
+Administrator@CSDO_WIFI_SERVER MINGW32 ~/esp/esp-idf-v4.1
+$ ./install.sh
+Installing ESP-IDF tools
+Installing tools: xtensa-esp32-elf, xtensa-esp32s2-elf, esp32ulp-elf, esp32s2ulp-elf, cmake, openocd-esp32, ninja, idf-exe, ccache
+Installing xtensa-esp32-elf@esp-2020r2-8.2.0
+Downloading xtensa-esp32-elf-gcc8_2_0-esp-2020r2-win64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/xtensa-esp32-elf-gcc8_2_0-esp-2020r2-win64.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/xtensa-esp32-elf-gcc8_2_0-esp-2020r2-win64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0
+Installing xtensa-esp32s2-elf@esp-2020r2-8.2.0
+Downloading xtensa-esp32s2-elf-gcc8_2_0-esp-2020r2-win64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/xtensa-esp32s2-elf-gcc8_2_0-esp-2020r2-win64.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/xtensa-esp32s2-elf-gcc8_2_0-esp-2020r2-win64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/xtensa-esp32s2-elf/esp-2020r2-8.2.0
+Installing esp32ulp-elf@2.28.51-esp-20191205
+Downloading binutils-esp32ulp-win32-2.28.51-esp-20191205.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/binutils-esp32ulp-win32-2.28.51-esp-20191205.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/binutils-esp32ulp-win32-2.28.51-esp-20191205.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/esp32ulp-elf/2.28.51-esp-20191205
+Installing esp32s2ulp-elf@2.28.51-esp-20191205
+Downloading binutils-esp32s2ulp-win32-2.28.51-esp-20191205.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/binutils-esp32s2ulp-win32-2.28.51-esp-20191205.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/binutils-esp32s2ulp-win32-2.28.51-esp-20191205.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/esp32s2ulp-elf/2.28.51-esp-20191205
+Installing cmake@3.13.4
+Downloading cmake-3.13.4-win64-x64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/cmake-3.13.4-win64-x64.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/cmake-3.13.4-win64-x64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/cmake/3.13.4
+Installing openocd-esp32@v0.10.0-esp32-20191114
+Downloading openocd-esp32-win32-0.10.0-esp32-20191114.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/openocd-esp32-win32-0.10.0-esp32-20191114.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/openocd-esp32-win32-0.10.0-esp32-20191114.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/openocd-esp32/v0.10.0-esp32-20191114
+Installing ninja@1.9.0
+Downloading ninja-1.9.0-win64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/ninja-1.9.0-win64.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/ninja-1.9.0-win64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/ninja/1.9.0
+Installing idf-exe@1.0.1
+Downloading idf-exe-v1.0.1.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/idf-exe-v1.0.1.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/idf-exe-v1.0.1.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/idf-exe/1.0.1
+Installing ccache@3.7
+Downloading ccache-3.7-w64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/ccache-3.7-w64.zip.tmp
+Done
+Extracting C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/dist/ccache-3.7-w64.zip to C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/tools/ccache/3.7
+Installing Python environment and packages
+DEPRECATION: Python 2.7 will reach the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 won't be maintained after that date. A future version of pip will drop support for Python 2.7.
+Collecting virtualenv
+  Downloading https://files.pythonhosted.org/packages/12/51/36c685ff2c1b2f7b4b5db29f3153159102ae0e0adaff3a26fd1448232e06/virtualenv-20.0.31-py2.py3-none-any.whl (4.9MB)
+     |▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒| 4.9MB 891kB/s
+Requirement already satisfied: six<2,>=1.9.0 in c:/users/administrator/desktop/msys32/mingw32/lib/python2.7/site-packages (from virtualenv) (1.12.0)
+Collecting importlib-metadata<2,>=0.12; python_version < "3.8" (from virtualenv)
+  Downloading https://files.pythonhosted.org/packages/8e/58/cdea07eb51fc2b906db0968a94700866fc46249bdc75cac23f9d13168929/importlib_metadata-1.7.0-py2.py3-none-any.whl
+Requirement already satisfied: appdirs<2,>=1.4.3 in c:/users/administrator/desktop/msys32/mingw32/lib/python2.7/site-packages (from virtualenv) (1.4.3)
+Collecting distlib<1,>=0.3.1 (from virtualenv)
+  Downloading https://files.pythonhosted.org/packages/f5/0a/490fa011d699bb5a5f3a0cf57de82237f52a6db9d40f33c53b2736c9a1f9/distlib-0.3.1-py2.py3-none-any.whl (335kB)
+     |▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒| 337kB 977kB/s
+Collecting importlib-resources>=1.0; python_version < "3.7" (from virtualenv)
+  Downloading https://files.pythonhosted.org/packages/ba/03/0f9595c0c2ef12590877f3c47e5f579759ce5caf817f8256d5dcbd8a1177/importlib_resources-3.0.0-py2.py3-none-any.whl
+Collecting filelock<4,>=3.0.0 (from virtualenv)
+  Downloading https://files.pythonhosted.org/packages/14/ec/6ee2168387ce0154632f856d5cc5592328e9cf93127c5c9aeca92c8c16cb/filelock-3.0.12.tar.gz
+Collecting contextlib2; python_version < "3" (from importlib-metadata<2,>=0.12; python_version < "3.8"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/85/60/370352f7ef6aa96c52fb001831622f50f923c1d575427d021b8ab3311236/contextlib2-0.6.0.post1-py2.py3-none-any.whl
+Collecting zipp>=0.5 (from importlib-metadata<2,>=0.12; python_version < "3.8"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/96/0a/67556e9b7782df7118c1f49bdc494da5e5e429c93aa77965f33e81287c8c/zipp-1.2.0-py2.py3-none-any.whl
+Collecting pathlib2; python_version < "3" (from importlib-metadata<2,>=0.12; python_version < "3.8"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/e9/45/9c82d3666af4ef9f221cbb954e1d77ddbb513faf552aea6df5f37f1a4859/pathlib2-2.3.5-py2.py3-none-any.whl
+Collecting configparser>=3.5; python_version < "3" (from importlib-metadata<2,>=0.12; python_version < "3.8"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/7a/2a/95ed0501cf5d8709490b1d3a3f9b5cf340da6c433f896bbe9ce08dbe6785/configparser-4.0.2-py2.py3-none-any.whl
+Collecting typing; python_version < "3.5" (from importlib-resources>=1.0; python_version < "3.7"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/3b/c0/e44213fcb799eac02881e2485724ba5b0914600bc9df6ed922e364fdc059/typing-3.7.4.3-py2-none-any.whl
+Collecting singledispatch; python_version < "3.4" (from importlib-resources>=1.0; python_version < "3.7"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/c5/10/369f50bcd4621b263927b0a1519987a04383d4a98fb10438042ad410cf88/singledispatch-3.4.0.3-py2.py3-none-any.whl
+Collecting scandir; python_version < "3.5" (from pathlib2; python_version < "3"->importlib-metadata<2,>=0.12; python_version < "3.8"->virtualenv)
+  Downloading https://files.pythonhosted.org/packages/df/f5/9c052db7bd54d0cbf1bc0bb6554362bba1012d03e5888950a4f5c5dadc4e/scandir-1.10.0.tar.gz
+Installing collected packages: contextlib2, zipp, scandir, pathlib2, configparser, importlib-metadata, distlib, typing, singledispatch, importlib-resources, filelock, virtualenv
+  Running setup.py install for scandir ... done
+  Running setup.py install for filelock ... done
+  WARNING: The script virtualenv.exe is installed in 'C:\Users\Administrator\Desktop\msys32\home\Administrator/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed configparser-4.0.2 contextlib2-0.6.0.post1 distlib-0.3.1 filelock-3.0.12 importlib-metadata-1.7.0 importlib-resources-3.0.0 pathlib2-2.3.5 scandir-1.10.0 singledispatch-3.4.0.3 typing-3.7.4.3 virtualenv-20.0.31 zipp-1.2.0
+RuntimeError: missing required file ExePathRefToDest(src=C:/Users/Administrator/Desktop/msys32/mingw32/bin/pythonw.exe, alias=[]) for creators CPython2Windows
+Creating a new Python environment in C:\Users\Administrator\Desktop\msys32\home\Administrator/.espressif/python_env/idf4.1_py2.7_env
+Installing virtualenv
+Traceback (most recent call last):
+  File "C:/Users/Administrator/Desktop/msys32/home/Administrator/esp/esp-idf-v4.1/tools/idf_tools.py", line 1387, in <module>
+    main(sys.argv[1:])
+  File "C:/Users/Administrator/Desktop/msys32/home/Administrator/esp/esp-idf-v4.1/tools/idf_tools.py", line 1383, in main
+    action_func(args)
+  File "C:/Users/Administrator/Desktop/msys32/home/Administrator/esp/esp-idf-v4.1/tools/idf_tools.py", line 1189, in action_install_python_env
+    stdout=sys.stdout, stderr=sys.stderr)
+  File "C:/Users/Administrator/Desktop/msys32/mingw32/lib/python2.7/subprocess.py", line 191, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['C:/Users/Administrator/Desktop/msys32/mingw32/bin/python.exe', '-m', 'virtualenv', 'C:\\Users\\Administrator\\Desktop\\msys32\\home\\Administrator/.espressif/python_env/idf4.1_py2.7_env']' returned non-zero exit status 1
