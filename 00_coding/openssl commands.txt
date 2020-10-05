@@ -1,0 +1,22 @@
+openssl ecparam -name prime256v1 -out [privatekey].pem
+
+openssl req -x509 -nodes -days 3650 -newkey ec:p256-params.pem -keyout p256-key.pem -out p256-cert.pem
+
+openssl req -new -key p256-key.pem -out verificationCert.csr
+
+openssl x509 -req -in [verificationcertrequest].csr -CA p256-cert.pem -CAkey p256-key.pem -CAcreateserial -out verificationCert.crt -days 3560 -sha256
+
+#gen private key
+openssl ecparam -name prime256v1 -genkey -noout -out private-key.pem
+
+#generate corresponding public key
+openssl ec -in private-key.pem -pubout -out public-key.pem
+
+#create a self-signed certificate
+openssl req -new -x509 -key private-key.pem -out cert.pem -days 360
+
+
+
+openssl req -new -key private-key.pem -out verificationCert.csr
+
+openssl x509 -req -in cert.pem -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out verificationCert.crt -days 500 -sha256

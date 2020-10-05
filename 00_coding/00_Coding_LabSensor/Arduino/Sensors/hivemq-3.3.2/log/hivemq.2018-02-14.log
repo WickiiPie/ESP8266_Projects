@@ -1,0 +1,67 @@
+2018-02-14 09:41:35,004 INFO  - Starting HiveMQ Server
+2018-02-14 09:41:35,008 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:41:35,008 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:41:35,031 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:41:37,167 WARN  - Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2018-02-14 09:42:14,501 INFO  - Starting HiveMQ Server
+2018-02-14 09:42:14,504 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:42:14,504 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:42:14,515 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:42:15,128 WARN  - Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2018-02-14 09:43:16,393 INFO  - Starting HiveMQ Server
+2018-02-14 09:43:16,395 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:43:16,395 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:43:16,407 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:43:17,069 WARN  - Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2018-02-14 09:43:32,099 INFO  - Starting HiveMQ Server
+2018-02-14 09:43:32,102 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:43:32,102 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:43:32,114 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:43:59,169 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-14 09:43:59,170 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-14 09:43:59,198 INFO  - JMX Metrics Reporting started.
+2018-02-14 09:43:59,385 INFO  - No user for Web UI configured. Starting with default user
+2018-02-14 09:43:59,385 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-14 09:44:03,403 INFO  - Started Web UI in 4018ms
+2018-02-14 09:44:03,424 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-14 09:44:03,666 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-14 09:44:03,668 INFO  - Started HiveMQ in 31572ms
+2018-02-14 09:44:03,671 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.
+2018-02-14 09:47:35,559 INFO  - Starting HiveMQ Server
+2018-02-14 09:47:35,561 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:47:35,561 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:47:35,569 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:47:37,028 ERROR - An error occurred while opening the Xodus publish payload persistence. Is another HiveMQ instance running?
+2018-02-14 09:47:50,997 INFO  - Starting HiveMQ Server
+2018-02-14 09:47:50,999 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:47:50,999 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:47:51,008 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:47:52,514 ERROR - An error occurred while opening the Xodus publish payload persistence. Is another HiveMQ instance running?
+2018-02-14 09:48:11,513 INFO  - Starting HiveMQ Server
+2018-02-14 09:48:11,515 INFO  - HiveMQ version: 3.3.2
+2018-02-14 09:48:11,515 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 09:48:11,525 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 09:48:35,803 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-14 09:48:35,803 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-14 09:48:35,825 INFO  - JMX Metrics Reporting started.
+2018-02-14 09:48:35,839 INFO  - No user for Web UI configured. Starting with default user
+2018-02-14 09:48:35,839 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-14 09:48:36,238 INFO  - Started Web UI in 399ms
+2018-02-14 09:48:36,252 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-14 09:48:36,479 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-14 09:48:36,480 INFO  - Started HiveMQ in 24971ms
+2018-02-14 09:48:36,483 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.
+2018-02-14 10:00:57,053 INFO  - Starting HiveMQ Server
+2018-02-14 10:00:57,055 INFO  - HiveMQ version: 3.3.2
+2018-02-14 10:00:57,055 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-14 10:00:57,063 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-14 10:01:23,657 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-14 10:01:23,658 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-14 10:01:23,680 INFO  - JMX Metrics Reporting started.
+2018-02-14 10:01:23,693 INFO  - No user for Web UI configured. Starting with default user
+2018-02-14 10:01:23,694 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-14 10:01:25,067 INFO  - Started Web UI in 1373ms
+2018-02-14 10:01:25,080 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-14 10:01:25,262 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-14 10:01:25,264 INFO  - Started HiveMQ in 28212ms
+2018-02-14 10:01:25,266 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.

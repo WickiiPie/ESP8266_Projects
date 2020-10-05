@@ -1,0 +1,35 @@
+2018-02-21 20:44:40,018 INFO  - Starting HiveMQ Server
+2018-02-21 20:44:40,048 INFO  - HiveMQ version: 3.3.2
+2018-02-21 20:44:40,048 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-21 20:44:40,076 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-21 20:45:11,118 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-21 20:45:11,118 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-21 20:45:11,207 INFO  - JMX Metrics Reporting started.
+2018-02-21 20:45:11,249 INFO  - No user for Web UI configured. Starting with default user
+2018-02-21 20:45:11,249 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-21 20:45:12,542 INFO  - Started Web UI in 1293ms
+2018-02-21 20:45:12,561 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-21 20:45:13,065 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-21 20:45:13,067 INFO  - Started HiveMQ in 33097ms
+2018-02-21 20:45:13,072 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.
+2018-02-21 20:46:20,441 INFO  - A new HiveMQ Version (3.3.3) is available. Visit http://www.hivemq.com/ for more details.
+2018-02-21 22:01:19,721 INFO  - Shutting down HiveMQ. Please wait, this could take a while...
+2018-02-21 22:04:37,638 INFO  - Starting HiveMQ Server
+2018-02-21 22:04:37,640 INFO  - HiveMQ version: 3.3.2
+2018-02-21 22:04:37,640 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-21 22:04:37,648 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-21 22:04:57,676 INFO  - Starting HiveMQ Server
+2018-02-21 22:04:57,678 INFO  - HiveMQ version: 3.3.2
+2018-02-21 22:04:57,678 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-21 22:04:57,685 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-21 22:05:25,247 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-21 22:05:25,248 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-21 22:05:25,271 INFO  - JMX Metrics Reporting started.
+2018-02-21 22:05:25,284 INFO  - No user for Web UI configured. Starting with default user
+2018-02-21 22:05:25,284 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-21 22:05:25,586 INFO  - Started Web UI in 302ms
+2018-02-21 22:05:25,598 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-21 22:05:25,768 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-21 22:05:25,769 INFO  - Started HiveMQ in 28095ms
+2018-02-21 22:05:25,771 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.
+2018-02-21 22:06:31,757 INFO  - A new HiveMQ Version (3.3.3) is available. Visit http://www.hivemq.com/ for more details.
