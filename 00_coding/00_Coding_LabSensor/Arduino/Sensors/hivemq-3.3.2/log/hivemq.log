@@ -1,0 +1,30 @@
+2018-02-24 20:41:20,918 INFO  - Starting HiveMQ Server
+2018-02-24 20:41:20,920 INFO  - HiveMQ version: 3.3.2
+2018-02-24 20:41:20,920 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-24 20:41:20,929 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-24 20:41:47,466 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-24 20:41:47,466 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-24 20:41:47,488 INFO  - JMX Metrics Reporting started.
+2018-02-24 20:41:47,501 INFO  - No user for Web UI configured. Starting with default user
+2018-02-24 20:41:47,501 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-24 20:41:47,907 INFO  - Started Web UI in 405ms
+2018-02-24 20:41:47,919 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-24 20:41:48,098 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-24 20:41:48,099 INFO  - Started HiveMQ in 27183ms
+2018-02-24 20:41:48,101 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.
+2018-02-24 20:42:54,710 INFO  - A new HiveMQ Version (3.3.3) is available. Visit http://www.hivemq.com/ for more details.
+2018-02-24 21:19:53,191 INFO  - Starting HiveMQ Server
+2018-02-24 21:19:53,193 INFO  - HiveMQ version: 3.3.2
+2018-02-24 21:19:53,193 INFO  - HiveMQ home directory: D:\Work\Sensors\hivemq-3.3.2
+2018-02-24 21:19:53,201 INFO  - Log Configuration was overridden by D:\Work\Sensors\hivemq-3.3.2\conf\logback.xml
+2018-02-24 21:20:14,986 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2018-02-24 21:20:14,987 INFO  - Loaded Plugin HiveMQ JVM Metrics Plugin - v3.1.0
+2018-02-24 21:20:15,008 INFO  - JMX Metrics Reporting started.
+2018-02-24 21:20:15,023 INFO  - No user for Web UI configured. Starting with default user
+2018-02-24 21:20:15,024 INFO  - Starting Web UI on address 127.0.0.1 and port 8080
+2018-02-24 21:20:15,329 INFO  - Started Web UI in 306ms
+2018-02-24 21:20:15,341 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2018-02-24 21:20:15,522 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2018-02-24 21:20:15,523 INFO  - Started HiveMQ in 22333ms
+2018-02-24 21:20:15,525 INFO  - No valid license file found. Using evaluation license, restricted to 25 connections.
+2018-02-24 21:21:21,189 INFO  - A new HiveMQ Version (3.3.3) is available. Visit http://www.hivemq.com/ for more details.

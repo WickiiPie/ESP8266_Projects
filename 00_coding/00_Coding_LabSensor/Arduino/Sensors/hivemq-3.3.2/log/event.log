@@ -1,0 +1,1571 @@
+2018-02-14 10:36:12,982 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:37:20,893 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:37:20,894 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:20,915 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:37:23,165 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:37:23,165 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:23,166 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:37:36,339 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:37:36,340 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:36,341 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:37:43,223 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:37:43,223 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:43,224 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:37:46,448 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:37:46,449 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:46,450 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:37:54,155 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:37:54,155 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:54,156 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:37:57,152 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:37:57,152 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:37:57,153 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:38:04,202 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:38:04,202 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:04,203 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:38:07,204 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:38:07,205 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:07,206 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:38:14,259 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:38:14,259 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:14,260 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:38:17,241 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:38:17,241 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:17,242 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:38:24,299 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:38:24,300 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:24,300 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:38:27,271 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:38:27,271 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:27,272 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:38:34,330 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:38:34,331 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:34,331 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:38:37,314 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:38:37,314 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:37,315 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:38:44,403 - Client ID: EspPubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:38:44,403 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:44,404 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:38:47,401 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:38:47,402 - Client ID: EspPubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:38:47,402 - Client ID: EspPubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:39:29,180 - Client ID: EspSubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:39:34,212 - Client ID: EspSubClient, IP:192.168.100.60, Clean Session:true connected.
+2018-02-14 10:39:34,213 - Client ID: EspSubClient, IP:192.168.100.60 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:39:34,221 - Client ID: EspSubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:43:50,401 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:43:50,402 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Another client connected with the same client id.
+2018-02-14 10:43:50,404 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:46:02,539 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Client was idle for too long.
+2018-02-14 10:46:02,541 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-14 10:46:12,354 - Client ID: EspPubClient, IP:192.168.100.101, Clean Session:true connected.
+2018-02-14 10:54:11,443 - Client ID: EspSubClient, IP:192.168.100.60 was disconnected. reason: Client was idle for too long.
+2018-02-14 10:54:11,445 - Client ID: EspSubClient, IP:192.168.100.60 disconnected ungracefully.
+2018-02-14 10:54:21,994 - Client ID: EspPubClient, IP:192.168.100.101 was disconnected. reason: Client was idle for too long.
+2018-02-14 10:54:21,995 - Client ID: EspPubClient, IP:192.168.100.101 disconnected ungracefully.
+2018-02-15 09:28:19,536 - Client ID: EspPubClient, IP:10.1.119.30, Clean Session:true connected.
+2018-02-15 09:30:07,857 - Client ID: EspSubClient, IP:10.1.119.31, Clean Session:true connected.
+2018-02-15 09:32:14,135 - Client ID: EspPubClient, IP:10.1.119.30 was disconnected. reason: Client was idle for too long.
+2018-02-15 09:32:14,248 - Client ID: EspPubClient, IP:10.1.119.30 disconnected ungracefully.
+2018-02-15 09:32:55,681 - Client ID: EspPubClient, IP:10.1.119.30, Clean Session:true connected.
+2018-02-15 09:46:49,611 - Client ID: EspSubClient, IP:10.1.119.31 disconnected ungracefully.
+2018-02-15 09:47:08,534 - Client ID: EspPubClient, IP:10.1.119.30 disconnected ungracefully.
+2018-02-15 11:19:09,160 - Client ID: EspSubClient, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:21:00,604 - Client ID: EspPubClient, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:21:00,681 - Client ID: EspSubClient, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:21:05,113 - Client ID: EspSubClient, IP:192.168.43.251, Clean Session:true connected.
+2018-02-15 11:23:27,163 - Client ID: EspSubClient, IP:192.168.43.251 was disconnected. reason: Client was idle for too long.
+2018-02-15 11:23:27,164 - Client ID: EspSubClient, IP:192.168.43.251 disconnected ungracefully.
+2018-02-15 11:23:30,727 - Client ID: EspSubClient, IP:192.168.43.251, Clean Session:true connected.
+2018-02-15 11:26:56,530 - Client ID: EspPubClient, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:26:56,540 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:27:03,507 - Client ID: EspSubClient, IP:192.168.43.251 disconnected ungracefully.
+2018-02-15 11:27:03,519 - Client ID: EspSubClient2, IP:192.168.43.251, Clean Session:true connected.
+2018-02-15 11:27:21,517 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:27:21,525 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:27:24,999 - Client ID: EspSubClient2, IP:192.168.43.251 disconnected ungracefully.
+2018-02-15 11:27:25,009 - Client ID: EspSubClient2, IP:192.168.43.251, Clean Session:true connected.
+2018-02-15 11:28:30,747 - Client ID: EspPubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:28:36,269 - Client ID: EspPubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:28:36,281 - Client ID: EspPubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:28:50,396 - Client ID: EspPubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:28:50,406 - Client ID: EspPubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:31:42,412 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:31:42,440 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:31:43,506 - Client ID: EspSubClient2, IP:192.168.43.251 disconnected ungracefully.
+2018-02-15 11:31:43,517 - Client ID: EspSubClient2, IP:192.168.43.251, Clean Session:true connected.
+2018-02-15 11:34:13,162 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:34:13,169 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:34:18,075 - Client ID: EspPubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:34:18,082 - Client ID: EspPubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:34:18,680 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:34:18,695 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:34:20,546 - Client ID: EspSubClient2, IP:192.168.43.251 was disconnected. reason: Client was idle for too long.
+2018-02-15 11:34:20,546 - Client ID: EspSubClient2, IP:192.168.43.251 disconnected ungracefully.
+2018-02-15 11:34:38,952 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:34:38,978 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:35:07,615 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:35:07,630 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:35:23,391 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:35:23,406 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:35:26,468 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:35:26,478 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:36:18,489 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:36:18,507 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:37:49,204 - Client ID: EspPubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:37:49,213 - Client ID: EspPubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:37:49,611 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:37:49,624 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:38:43,678 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:38:43,686 - Client ID: EspSubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:41:58,239 - Client ID: EspSubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:41:58,253 - Client ID: EspPubClient2, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:43:20,146 - Client ID: EspPubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:43:20,158 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:44:54,146 - Client ID: EspPubClient2, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:44:54,158 - Client ID: EspPubClient2, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:58:01,484 - Client ID: EspPubClient2, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 11:58:01,495 - Client ID: EspPubClient2, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 11:58:01,891 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:58:01,915 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:58:53,692 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:58:53,700 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:59:01,069 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:59:01,078 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 11:59:23,185 - Client ID: EspPubClient1, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-15 11:59:23,185 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 11:59:41,215 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:00:02,931 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 12:00:02,942 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:00:07,421 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 12:00:07,430 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:00:10,289 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 12:00:10,301 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:00:42,444 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 12:00:42,454 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:00:58,821 - Client ID: EspPubClient2, IP:192.168.43.3 disconnected ungracefully.
+2018-02-15 12:00:58,830 - Client ID: EspPubClient2, IP:192.168.43.3, Clean Session:true connected.
+2018-02-15 12:01:12,548 - Client ID: EspSubClient4, IP:192.168.43.177, Clean Session:true connected.
+2018-02-15 12:01:56,369 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 12:01:56,379 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:02:36,714 - Client ID: EspPubClient1, IP:192.168.43.26 disconnected ungracefully.
+2018-02-15 12:02:36,726 - Client ID: EspPubClient1, IP:192.168.43.26, Clean Session:true connected.
+2018-02-15 12:03:52,309 - Client ID: EspSubClient3, IP:192.168.43.122, Clean Session:true connected.
+2018-02-21 20:53:22,736 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 20:53:48,214 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:53:48,319 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 20:54:10,273 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:54:10,296 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:54:10,438 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:54:10,440 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 20:54:12,289 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:54:12,646 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 20:54:34,658 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:54:34,659 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:54:34,698 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:54:34,699 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 20:54:39,741 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:54:39,744 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 20:55:01,763 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:55:01,764 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:55:01,780 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:55:01,781 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 20:55:03,805 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:55:03,807 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 20:55:04,878 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 20:55:04,880 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 20:55:25,843 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:55:25,845 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 20:55:40,725 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 20:56:05,888 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:56:05,889 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:56:07,904 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:56:29,929 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:56:29,930 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:56:31,942 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:56:53,961 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:56:53,961 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:56:56,052 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:57:18,085 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:57:18,085 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:57:20,101 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:57:42,125 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:57:42,125 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:57:44,187 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:58:06,380 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:58:06,380 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:58:08,514 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:58:30,537 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:58:30,538 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:58:32,933 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:58:53,203 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 20:58:55,912 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 20:59:27,350 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:59:27,350 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:59:29,359 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 20:59:30,484 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 20:59:30,494 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 20:59:38,321 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 20:59:38,329 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 20:59:51,381 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 20:59:51,381 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 20:59:55,481 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 20:59:55,522 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 20:59:56,157 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:00:18,180 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:00:18,181 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:00:30,207 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:00:58,278 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:00:58,279 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:01:39,193 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:01:39,195 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:01:40,655 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:06:42,405 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:11:51,481 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:11:51,482 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Another client connected with the same client id.
+2018-02-21 21:11:51,483 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:11:56,335 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:11:56,342 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:12:22,812 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:12:23,845 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:12:44,840 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:12:44,841 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:12:45,876 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:12:45,877 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:12:48,486 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:12:48,487 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:12:57,899 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:12:58,792 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:13:19,920 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:13:19,922 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:13:28,849 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:14:12,085 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:14:14,460 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:14:26,619 - Client ID: UNKNOWN, IP:192.168.43.3 was disconnected. reason: No CONNECT sent in time.
+2018-02-21 21:14:26,620 - Client ID: UNKNOWN, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:14:33,308 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:14:34,181 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:14:34,181 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:14:36,583 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:14:36,584 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:14:38,731 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:14:38,755 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:14:55,431 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:14:55,433 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:15:00,838 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:15:00,838 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:15:02,856 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:15:07,609 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:15:12,324 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:15:12,331 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:15:24,876 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:15:24,878 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:15:26,912 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:15:29,638 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:15:29,639 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:15:31,682 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:16:10,972 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:16:10,973 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:16:25,851 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:16:40,269 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:16:40,270 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:16:49,912 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:16:49,913 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:16:50,001 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:16:52,099 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:17:24,225 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:17:24,226 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:17:36,295 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:18:00,338 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:18:00,339 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:18:05,549 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:18:27,571 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:18:27,572 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:18:29,586 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:18:51,615 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:18:51,616 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:18:53,633 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:19:15,666 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:19:15,667 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:19:17,681 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:19:39,821 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:19:39,822 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:19:46,096 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:20:08,123 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:20:08,124 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:20:10,260 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:20:32,274 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:20:32,275 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:20:34,294 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:20:56,380 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:20:56,380 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:21:01,170 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:21:19,401 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:21:19,401 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:21:23,193 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:21:23,194 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:21:23,215 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:21:23,227 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:21:39,253 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:21:42,002 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:22:05,332 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:22:05,333 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:22:07,344 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:22:29,373 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:22:29,373 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:22:31,547 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:22:53,659 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:22:53,660 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:23:08,496 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:23:30,523 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:23:30,524 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:23:45,562 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:24:07,586 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:24:07,587 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:24:09,605 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:24:31,893 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:24:31,894 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:24:33,962 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:24:56,124 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:24:56,124 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:25:06,281 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:25:28,304 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:25:28,304 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:25:33,344 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:25:55,369 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:25:55,369 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:26:00,440 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:26:22,479 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:26:22,481 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:26:37,667 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:26:59,693 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:26:59,694 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:27:01,711 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:27:23,733 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:27:23,735 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:27:25,762 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:27:47,767 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:27:47,767 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:27:59,785 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:28:22,991 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:28:22,992 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:28:25,133 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:28:47,162 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:28:47,163 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:28:49,176 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:29:11,196 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:29:11,197 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:29:13,241 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:29:35,265 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:29:35,266 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:29:37,295 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:29:59,868 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:29:59,869 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:30:12,081 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:30:34,105 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:30:34,106 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:30:36,147 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:30:58,173 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:30:58,173 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:31:00,195 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:31:18,410 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:31:18,412 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:31:20,420 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:31:22,221 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:31:22,223 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:31:24,239 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:31:47,022 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:31:47,024 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:31:49,040 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:32:11,060 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:32:11,061 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:32:13,077 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 21:32:35,102 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:32:35,103 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 21:34:08,538 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:34:08,538 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:34:27,399 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:37:07,434 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:37:51,611 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:40:37,727 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:40:37,727 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Another client connected with the same client id.
+2018-02-21 21:40:37,728 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:41:33,789 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:41:33,789 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:41:35,798 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:42:09,830 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:42:09,831 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:42:11,837 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:42:33,965 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:42:33,966 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:42:35,984 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:42:58,100 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:42:58,101 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:43:00,288 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:43:22,310 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:43:22,312 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:43:24,328 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:43:46,348 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:43:46,349 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:43:48,373 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:44:10,473 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:44:10,474 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:44:12,495 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:44:34,603 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:44:34,604 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:44:36,615 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:44:58,635 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:44:58,636 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:45:00,656 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:45:22,765 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:45:22,765 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:45:24,799 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:45:46,911 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:45:46,912 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:45:48,925 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:46:11,086 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:46:11,087 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:46:13,113 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:46:35,137 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:46:35,138 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:46:37,153 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:47:00,436 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:47:00,436 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:47:12,480 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:47:34,596 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:47:34,597 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:47:36,670 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:47:58,817 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:47:58,817 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:48:00,866 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:48:22,979 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:48:22,980 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:48:24,995 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:48:47,098 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:48:47,099 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:48:49,139 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:52:21,283 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:52:21,284 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:52:23,297 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 21:53:23,423 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:53:23,424 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 21:54:52,535 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:54:52,536 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Another client connected with the same client id.
+2018-02-21 21:54:52,538 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:58:29,613 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-21 21:58:29,615 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:59:44,165 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 21:59:53,165 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 21:59:53,172 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 22:01:19,777 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 22:05:29,999 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 22:06:07,947 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:06:09,792 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 22:06:09,793 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Another client connected with the same client id.
+2018-02-21 22:06:09,799 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 22:06:43,992 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:06:43,994 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:06:46,003 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:07:08,112 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:07:08,114 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:07:10,144 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:07:32,312 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:07:32,314 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:07:34,404 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:07:56,526 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:07:56,527 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:07:58,584 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:08:20,616 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:08:20,617 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:08:22,686 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:09:26,721 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:09:26,722 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:09:28,794 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:09:50,907 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:09:50,909 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:09:52,926 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:10:14,955 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:10:14,956 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:10:16,973 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:10:38,997 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:10:38,997 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:10:41,014 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:11:03,126 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:11:03,128 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:11:05,235 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:11:27,262 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:11:27,263 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:11:29,279 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:11:51,300 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:11:51,301 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:11:53,319 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:12:15,340 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:12:15,342 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:12:17,365 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:12:39,486 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:12:39,486 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:12:41,595 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:13:03,614 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:13:03,615 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:13:05,645 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:13:16,934 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:13:16,935 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 22:13:19,448 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 22:13:45,695 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:13:45,696 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:13:47,702 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:14:09,736 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:14:09,736 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:14:11,758 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:14:33,778 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:14:33,779 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:14:34,603 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 22:14:34,612 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 22:14:35,796 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:14:47,507 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:14:57,820 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:14:57,820 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:14:59,856 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:15:17,638 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:15:17,639 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:15:19,648 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:15:21,921 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:15:21,922 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:15:23,935 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:15:26,016 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 22:15:26,025 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-21 22:16:14,103 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:16:14,104 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:16:15,687 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:16:15,688 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:16:16,111 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:16:17,709 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:16:38,137 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:16:38,138 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:16:40,152 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:16:47,748 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:16:47,749 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:16:49,757 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:17:02,268 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:17:02,269 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:17:04,395 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:17:11,937 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:17:11,938 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:17:14,072 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:17:26,427 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:17:26,428 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:17:28,441 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:17:36,095 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:17:36,096 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:17:38,113 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:17:50,546 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:17:50,546 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:17:52,626 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:18:00,230 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:18:00,230 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:18:02,299 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:18:14,665 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:18:14,665 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:18:16,675 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:18:24,328 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:18:24,329 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:18:26,345 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:18:38,696 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:18:38,696 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:18:40,707 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:18:48,372 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:18:48,372 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:18:50,386 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:19:02,724 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:19:02,724 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:19:04,736 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:19:12,410 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:19:12,410 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:19:14,424 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:19:26,780 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:19:26,780 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:19:28,795 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:19:36,446 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:19:36,447 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:19:38,460 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:19:50,820 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:19:50,821 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:19:52,841 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-21 22:20:00,478 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:20:00,479 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:20:02,495 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:20:14,860 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:20:14,861 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-21 22:20:24,523 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:20:24,523 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:20:26,542 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:20:48,565 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:20:48,565 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:20:50,584 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:21:12,598 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:21:12,599 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:21:14,615 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:21:18,060 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:21:18,061 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-21 22:21:36,646 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:21:36,647 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:21:38,665 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:22:00,693 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:22:00,696 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:22:05,766 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:22:27,796 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:22:27,798 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:22:29,812 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:22:51,834 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:22:51,835 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:22:53,855 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:23:15,862 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:23:15,863 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:23:17,879 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:23:22,776 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:23:22,776 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Another client connected with the same client id.
+2018-02-21 22:23:22,777 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:23:44,809 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:23:44,811 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:23:46,862 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:24:08,887 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:24:08,888 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:24:10,900 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:24:32,956 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:24:32,957 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:24:34,973 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:24:57,019 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:24:57,020 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:24:59,038 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:25:21,067 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:25:21,068 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:25:23,084 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:25:45,109 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:25:45,110 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:25:47,125 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:26:09,188 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:26:09,189 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:26:11,208 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:26:33,239 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:26:33,240 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:26:35,254 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:26:57,406 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:26:57,408 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:26:59,425 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:27:21,576 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:27:21,577 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:27:26,602 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:27:48,702 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:27:48,703 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:27:50,729 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:28:12,760 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:28:12,761 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:28:14,803 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:28:36,824 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:28:36,825 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:28:38,844 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:29:00,978 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:29:00,979 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:29:01,166 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:29:23,168 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:29:23,169 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:29:25,391 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:29:47,486 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:29:47,486 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:29:49,503 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:30:11,522 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:30:11,523 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:32:20,564 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:32:42,642 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:32:42,644 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:32:44,663 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:33:06,688 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:33:06,689 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:33:08,701 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:33:30,844 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:33:30,845 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:33:32,859 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:33:54,881 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:33:54,882 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:33:54,896 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:34:16,905 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:34:16,906 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:34:18,923 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:34:40,943 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:34:40,944 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:34:40,957 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:35:02,962 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:35:02,963 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:35:04,980 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:35:27,008 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:35:27,009 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:35:29,026 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:35:51,160 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:35:51,162 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:35:53,178 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:36:15,198 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:36:15,199 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:36:17,216 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:36:39,337 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:36:39,338 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:36:41,355 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:37:03,445 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:37:03,447 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:37:05,464 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:37:27,493 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:37:27,494 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:37:29,513 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:37:51,543 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:37:51,545 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:37:53,563 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:38:15,670 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:38:15,671 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:38:17,783 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:38:39,804 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:38:39,805 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:38:41,832 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:39:03,939 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:39:03,940 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:39:05,987 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:39:28,091 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:39:28,091 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:39:30,106 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:39:52,125 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:39:52,126 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:39:54,141 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:40:16,170 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:40:16,171 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:40:18,194 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:40:40,310 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:40:40,311 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:40:42,333 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:41:04,445 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:41:04,446 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:41:06,554 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:41:28,579 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:41:28,579 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:41:30,592 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:41:52,634 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:41:52,634 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:41:54,653 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:42:16,675 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:42:16,676 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:42:18,755 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:42:40,778 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:42:40,779 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:42:42,794 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:43:04,902 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:43:04,904 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:43:06,918 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:43:28,945 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:43:28,946 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:43:30,962 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:43:53,076 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:43:53,077 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:43:55,099 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:44:17,127 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:44:17,129 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:44:19,183 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:44:41,301 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:44:41,302 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:44:43,395 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:45:05,422 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:45:05,423 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:45:27,564 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:45:49,594 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:45:49,595 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:45:51,645 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:46:13,673 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:46:13,674 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:46:15,770 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:46:37,896 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:46:37,897 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:46:39,911 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:47:01,948 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:47:01,949 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:47:03,997 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:47:26,109 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:47:26,110 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:47:28,123 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:47:50,146 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:47:50,147 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:47:52,197 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:48:14,307 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:48:14,309 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:48:16,321 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:48:38,437 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:48:38,438 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:48:40,451 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:49:02,567 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:49:02,568 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:49:04,582 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:49:26,634 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:49:26,635 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:49:28,649 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:49:50,670 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:49:50,670 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:49:52,680 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:50:14,699 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:50:14,700 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:50:16,771 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:50:38,878 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:50:38,878 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:50:40,893 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:51:02,916 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:51:02,917 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:51:04,935 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:51:26,974 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:51:26,976 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:51:28,988 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:51:51,253 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:51:51,254 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:51:53,274 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:52:15,387 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:52:15,388 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:52:15,531 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:52:37,535 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:52:37,536 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:52:51,552 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:53:13,574 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:53:13,575 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:53:15,589 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:53:37,711 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:53:37,712 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:53:39,733 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:54:01,934 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:54:01,936 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:54:04,020 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:54:26,033 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:54:26,034 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:54:28,146 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:54:50,243 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:54:50,244 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:54:52,258 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:55:14,377 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:55:14,378 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:55:16,398 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:55:38,421 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:55:38,423 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:55:40,436 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:56:02,454 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:56:02,455 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:56:17,704 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:56:39,737 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:56:39,738 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:56:41,749 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:57:03,770 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:57:03,771 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:57:05,788 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:57:27,817 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:57:27,818 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:57:29,835 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:57:51,848 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:57:51,849 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:57:53,865 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:58:15,890 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:58:15,891 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:58:17,906 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:58:40,027 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:58:40,028 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:58:52,047 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:59:14,069 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:59:14,069 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:59:16,104 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 22:59:38,130 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 22:59:38,131 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 22:59:50,282 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:00:12,314 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:00:12,319 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:00:14,335 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:00:36,358 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:00:36,359 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:00:38,372 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:01:00,395 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:01:00,395 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:01:02,415 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:01:24,437 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:01:24,437 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:01:26,455 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:01:48,578 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:01:48,579 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:01:50,642 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:02:12,662 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:02:12,664 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:02:14,681 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:02:36,738 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:02:36,739 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:02:38,757 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:03:00,872 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:03:00,873 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:03:12,887 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:03:34,949 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:03:34,949 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:03:46,969 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:04:08,995 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:04:08,996 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:04:11,014 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:04:33,298 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:04:33,299 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:04:33,398 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:04:55,402 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:04:55,403 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:04:57,424 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:05:19,459 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:05:19,461 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:05:21,475 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:05:43,601 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:05:43,602 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:05:45,616 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:06:07,732 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:06:07,732 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:06:09,748 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:06:31,763 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:06:31,764 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:07:43,998 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:08:06,101 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:08:06,102 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:08:08,141 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:08:30,162 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:08:30,163 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:08:35,211 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:08:57,268 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:08:57,270 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:08:59,289 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:09:21,316 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:09:21,317 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:09:23,374 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:09:45,399 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:09:45,401 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:09:47,417 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:10:09,495 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:10:09,496 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:10:11,555 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:10:33,671 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:10:33,672 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:10:35,731 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:10:57,756 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:10:57,757 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:10:59,772 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:11:21,889 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:11:21,890 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:11:23,965 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:11:46,088 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:11:46,089 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:11:56,115 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:12:18,213 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:12:18,215 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:12:20,235 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:12:42,354 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:12:42,355 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:12:44,368 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:13:06,525 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:13:06,526 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:13:08,539 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:13:30,558 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:13:30,560 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:13:32,646 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:13:54,673 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:13:54,674 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:13:56,688 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:14:18,709 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:14:18,710 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:14:20,956 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:14:42,976 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:14:42,977 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:14:44,989 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:15:07,110 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:15:07,110 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:15:09,121 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:15:31,525 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:15:31,526 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:15:33,617 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:15:55,638 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:15:55,640 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:15:57,653 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:16:19,675 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:16:19,676 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:16:21,703 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:16:43,807 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:16:43,809 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:16:45,824 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:17:07,845 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:17:07,846 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:17:09,862 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:17:31,980 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:17:31,980 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:17:34,019 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:17:56,043 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:17:56,044 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:17:58,061 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:18:20,086 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:18:20,087 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:18:22,102 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:18:44,132 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:18:44,133 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:18:46,148 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:19:08,171 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:19:08,172 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:19:10,184 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:19:32,290 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:19:32,290 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:19:34,320 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:19:56,342 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:19:56,342 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:19:58,354 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:20:20,382 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:20:20,383 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:20:22,398 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:20:44,429 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:20:44,430 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:20:46,447 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:21:08,605 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:21:08,606 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:21:10,691 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:21:32,757 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:21:32,758 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:21:34,771 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:21:56,891 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:21:56,893 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:21:56,985 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:22:19,005 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:22:19,005 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:22:21,022 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:22:43,657 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:22:43,658 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:22:58,986 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:23:21,088 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:23:21,090 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:23:23,109 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:23:45,186 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:23:45,188 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:23:47,202 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:24:09,227 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:24:09,228 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:24:11,247 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:24:33,368 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:24:33,369 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:24:35,485 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:24:57,514 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:24:57,515 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:24:59,531 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:25:21,554 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:25:21,556 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:25:23,572 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:25:45,691 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:25:45,692 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:25:47,786 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:26:09,812 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:26:09,812 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:26:11,827 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:26:33,844 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:26:33,845 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:26:35,861 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:26:57,890 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:26:57,892 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:26:59,909 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:27:21,998 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:27:22,000 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:27:24,442 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:27:46,573 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:27:46,573 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:28:08,600 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:28:30,626 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:28:30,628 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:28:47,341 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:29:09,370 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:29:09,370 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:29:14,431 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:29:36,460 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:29:36,461 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:29:38,482 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:30:00,504 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:30:00,505 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:30:02,606 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:30:24,634 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:30:24,636 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:30:26,736 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:30:48,757 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:30:48,758 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:31:02,912 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:31:24,942 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:31:24,944 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:31:26,959 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:31:49,052 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:31:49,052 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:31:51,077 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:32:13,081 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:32:13,082 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-21 23:32:15,097 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-21 23:32:37,099 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-21 23:32:37,100 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:12:59,718 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:13:21,740 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:13:21,741 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:13:23,764 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:13:45,883 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:13:45,884 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:13:47,932 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:14:09,958 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:14:09,959 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:14:11,976 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:14:33,998 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:14:34,000 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:14:36,388 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:14:58,413 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:14:58,414 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:15:01,348 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:15:23,452 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:15:23,453 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:15:25,468 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:15:47,499 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:15:47,501 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:15:49,514 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:16:11,579 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:16:11,580 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:16:14,253 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:16:36,378 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:16:36,380 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:16:38,628 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:17:00,652 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:17:00,652 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:17:02,674 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:17:24,742 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:17:24,743 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:17:26,794 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:17:48,822 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:17:48,823 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:17:50,837 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:18:12,939 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:18:12,941 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:18:14,958 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:18:36,980 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:18:36,981 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:18:39,007 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:19:01,035 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:19:01,036 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:19:03,086 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:19:25,169 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:19:25,171 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:19:27,300 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:19:49,327 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:19:49,329 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:19:51,350 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:20:13,373 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:20:13,374 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:20:15,403 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:20:37,424 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:20:37,426 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:20:39,442 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:21:01,472 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:21:01,473 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:21:03,490 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:21:08,040 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:22:09,628 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:22:31,679 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:22:31,683 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:22:34,354 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:22:56,398 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:22:56,400 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:22:58,529 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:23:20,551 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:23:20,551 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:23:23,505 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:23:45,618 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:23:45,620 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:23:48,285 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:24:10,393 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:24:10,395 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:24:12,453 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:24:34,574 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:24:34,575 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:24:36,598 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:24:58,621 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:24:58,623 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:25:00,644 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:25:22,751 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:25:22,752 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:25:25,153 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:25:47,264 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:25:47,265 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:25:47,276 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:26:09,297 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:26:09,299 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:26:12,050 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:26:34,160 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:26:34,161 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:26:36,357 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:26:51,791 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-22 09:26:51,791 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:26:52,193 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:26:52,194 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Another client connected with the same client id.
+2018-02-22 09:26:52,195 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:27:34,454 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:27:34,456 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:27:36,630 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:27:37,840 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:27:37,841 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:27:39,845 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:27:58,655 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:27:58,656 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:28:00,672 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:28:01,872 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:28:01,873 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:28:03,889 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:28:22,791 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:28:22,792 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:28:24,897 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:28:25,998 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:28:25,999 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:28:26,062 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:28:47,010 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:28:47,012 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:28:48,066 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:28:48,067 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:28:49,532 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:28:50,089 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:29:11,556 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:29:11,558 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:29:12,113 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:29:12,114 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:29:13,907 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:29:14,129 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:29:41,938 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:29:41,939 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:29:44,013 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:29:46,351 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:29:46,353 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:29:48,311 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:29:58,964 - Client ID: EspSubClient3, IP:192.168.43.122, Clean Session:true connected.
+2018-02-22 09:30:06,033 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:30:06,034 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:30:08,050 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:30:10,432 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:30:10,433 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:30:11,354 - Client ID: EspSubClient3, IP:192.168.43.122, Clean Session:true connected.
+2018-02-22 09:30:11,354 - Client ID: EspSubClient3, IP:192.168.43.122 was disconnected. reason: Another client connected with the same client id.
+2018-02-22 09:30:11,356 - Client ID: EspSubClient3, IP:192.168.43.122 disconnected ungracefully.
+2018-02-22 09:30:12,575 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:30:30,161 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:30:30,162 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:30:32,178 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:30:34,594 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:30:34,596 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:30:36,746 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:30:54,210 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:30:54,211 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:30:56,606 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:30:59,066 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:30:59,068 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:31:01,157 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:31:18,453 - Client ID: EspSubClient3, IP:192.168.43.122 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:31:18,455 - Client ID: EspSubClient3, IP:192.168.43.122 disconnected ungracefully.
+2018-02-22 09:31:18,626 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:31:18,627 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:31:20,367 - Client ID: EspSubClient3, IP:192.168.43.122, Clean Session:true connected.
+2018-02-22 09:31:20,643 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:35:15,868 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:35:15,869 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:35:15,869 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:35:15,870 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-22 09:35:18,869 - Client ID: EspSubClient3, IP:192.168.43.122 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:35:18,870 - Client ID: EspSubClient3, IP:192.168.43.122 disconnected ungracefully.
+2018-02-22 09:35:20,677 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:35:20,677 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:35:20,678 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:35:22,125 - Client ID: EspSubClient3, IP:192.168.43.122, Clean Session:true connected.
+2018-02-22 09:35:29,236 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-22 09:35:29,256 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:35:42,717 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:35:42,718 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:35:42,728 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:35:51,274 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:35:51,275 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:35:51,287 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:36:04,760 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:36:04,760 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:36:06,810 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:36:13,298 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:36:13,299 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:36:15,312 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:36:28,981 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:36:28,982 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:36:31,183 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:36:37,333 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:36:37,334 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:36:39,784 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:36:53,203 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:36:53,204 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:36:55,756 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:37:01,809 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:37:01,811 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:37:04,974 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:37:17,796 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:37:17,797 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:37:20,536 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:37:27,087 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:37:27,088 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:37:29,548 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:37:42,656 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:37:42,657 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:37:44,916 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:37:51,662 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:37:51,663 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:37:53,919 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:38:10,947 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:38:10,948 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:38:13,784 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:38:32,500 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:38:32,501 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:38:34,671 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:38:47,862 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:38:47,864 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:38:50,648 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:38:58,918 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:38:58,920 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:39:00,718 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:39:12,674 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:39:12,675 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:39:15,017 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:39:22,826 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:39:22,827 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:39:24,853 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:39:37,134 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:39:37,135 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:39:39,413 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:39:46,961 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:39:46,963 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:39:49,421 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:40:23,571 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:40:23,572 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:40:26,078 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:40:33,942 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:40:33,944 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:40:36,525 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:40:48,190 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:40:48,192 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:40:50,655 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:40:58,640 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:40:58,641 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:41:00,658 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:41:12,677 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:41:12,678 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:41:15,230 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:41:22,682 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:41:22,683 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:41:25,061 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:41:37,253 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:41:37,254 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:41:39,400 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:41:47,151 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:41:47,152 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:41:49,228 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:42:01,510 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:42:01,511 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:42:03,529 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:42:11,341 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:42:11,343 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:42:14,009 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:42:25,551 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:42:25,552 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:42:28,136 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:42:36,127 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:42:36,127 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:42:36,215 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:42:50,155 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:42:50,157 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:42:53,119 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:42:58,234 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:42:58,235 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:42:58,248 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:43:15,140 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:43:15,140 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:43:17,491 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:43:20,391 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:43:20,393 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:43:20,449 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:43:39,611 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:43:39,613 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:43:42,273 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:43:42,454 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:43:42,455 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:43:44,219 - Client ID: EspSubClient3, IP:192.168.43.122 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:43:44,221 - Client ID: EspSubClient3, IP:192.168.43.122 disconnected ungracefully.
+2018-02-22 09:43:44,472 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:44:04,301 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:04,303 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:44:06,316 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:44:06,490 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:06,492 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:44:08,514 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:44:28,424 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:28,425 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:44:30,621 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:30,622 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 09:44:30,929 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 09:44:33,144 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 09:44:51,763 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:51,764 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-22 09:44:52,952 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:52,953 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 09:44:55,173 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 09:44:55,174 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:36:13,302 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:36:16,354 - Client ID: EspSubClient, IP:192.168.43.26, Clean Session:true connected.
+2018-02-22 10:36:17,275 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:36:39,298 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:36:39,300 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:36:39,310 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:36:57,356 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:36:57,356 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:36:59,362 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:37:07,359 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:37:07,360 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:37:09,366 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:37:21,465 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:37:21,466 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:37:23,521 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:37:31,389 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:37:31,390 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:37:33,404 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:37:45,703 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:37:45,704 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:37:53,884 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:37:53,885 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Another client connected with the same client id.
+2018-02-22 10:37:53,887 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:37:57,472 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:38:15,911 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:38:15,912 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:38:16,429 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:38:19,495 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:38:19,495 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:38:20,018 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:38:38,431 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:38:38,432 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:38:38,954 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:39:12,477 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:39:12,477 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:39:12,991 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:39:20,550 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:39:20,551 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:39:21,066 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:39:34,996 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:39:34,996 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:39:35,545 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:39:43,070 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:39:43,071 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:39:49,282 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:39:49,282 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Another client connected with the same client id.
+2018-02-22 10:39:49,283 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:39:52,561 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:40:25,371 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:40:25,371 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:40:25,559 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:40:28,928 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:40:28,929 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:40:29,013 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:40:46,213 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:40:46,214 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Another client connected with the same client id.
+2018-02-22 10:40:46,215 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:40:47,561 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:40:47,562 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:40:48,264 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:41:26,614 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:41:26,615 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:41:26,840 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:41:54,160 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:41:54,160 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:41:54,293 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:42:05,458 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:42:05,459 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:42:05,682 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:42:16,297 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:42:16,298 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:42:17,347 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:42:17,347 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Another client connected with the same client id.
+2018-02-22 10:42:17,348 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:42:20,634 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:42:39,363 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:42:39,364 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:42:39,588 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:43:49,156 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:43:49,157 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:43:49,370 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:43:50,879 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:43:50,880 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:43:51,101 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:44:13,104 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:44:13,105 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:44:13,333 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:45:24,235 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:45:24,237 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:45:24,455 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:46:02,228 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:46:02,229 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:46:02,450 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:46:05,681 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:46:05,681 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:46:05,899 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:46:41,685 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:46:41,685 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:46:41,909 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:46:46,730 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:46:46,731 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:46:46,955 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:47:03,913 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:47:03,914 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:47:04,138 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:47:08,959 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:47:08,960 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:47:09,184 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:47:26,142 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:47:26,143 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:47:26,573 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:47:31,188 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:47:31,189 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:47:31,418 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:47:48,577 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:47:48,578 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:47:48,804 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:47:53,423 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:47:53,424 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:47:53,648 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:48:10,809 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:48:10,809 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:48:11,037 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:48:15,651 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:48:15,652 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:48:15,880 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:48:33,041 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:48:33,042 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:48:33,280 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:48:37,884 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:48:37,885 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:48:38,112 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:48:55,283 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:48:55,285 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:48:55,510 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:49:00,115 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:49:00,117 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:49:00,352 - Client ID: EspPubClient2, IP:192.168.43.44, Clean Session:true connected.
+2018-02-22 10:49:17,515 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:49:17,515 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:49:17,740 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:49:22,356 - Client ID: EspPubClient2, IP:192.168.43.44 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:49:22,357 - Client ID: EspPubClient2, IP:192.168.43.44 disconnected ungracefully.
+2018-02-22 10:49:38,404 - Client ID: EspSubClient, IP:192.168.43.26 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:49:38,404 - Client ID: EspSubClient, IP:192.168.43.26 disconnected ungracefully.
+2018-02-22 10:49:39,742 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:49:39,742 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:49:39,968 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:50:01,972 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:50:01,972 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:50:02,200 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:50:24,202 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:50:24,202 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:50:24,426 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:50:46,428 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:50:46,428 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
+2018-02-22 10:50:46,856 - Client ID: EspPubClient1, IP:192.168.43.3, Clean Session:true connected.
+2018-02-22 10:51:08,859 - Client ID: EspPubClient1, IP:192.168.43.3 was disconnected. reason: Client was idle for too long.
+2018-02-22 10:51:08,860 - Client ID: EspPubClient1, IP:192.168.43.3 disconnected ungracefully.
